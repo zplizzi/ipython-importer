@@ -13,4 +13,4 @@ IPython is great, but oftentimes has trouble scaling to more complex projects. N
 # Usage
 
 1. Import with `import ipython_importer`
-2. Now you can import `.ipynb` files just like you would normal `.py` files, like `import my_cool_module`.
+2. Now you can import `.ipynb` files just like you would normal `.py` files, like `import my_cool_module` to import `my_cool_module.ipynb`.
